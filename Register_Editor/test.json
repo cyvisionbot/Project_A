@@ -23,5 +23,17 @@
             "NOTE": "",
             "source": "MX1345"
         }
+    ],
+    "0x1234": [
+        {
+            "Net-list Name": "duplicate_netlist_name_test",
+            "Bits": "0",
+            "R/W": "R",
+            "Reset": "'h0",
+            "Byte Count": 1,
+            "Comment": "test\n comment",
+            "NOTE": "",
+            "source": "MX1234"
+        }
     ]
 }
